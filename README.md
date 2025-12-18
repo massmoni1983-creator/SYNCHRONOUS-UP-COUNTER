@@ -67,6 +67,7 @@ RegisterNumber: 25010785
 
 <img width="580" height="290" alt="Screenshot 2025-12-18 083426" src="https://github.com/user-attachments/assets/b3ac3852-893f-49e5-aaac-05429c3adf74" />
 <img width="552" height="292" alt="Screenshot 2025-12-18 083509" src="https://github.com/user-attachments/assets/0ee0bed8-e92e-40e3-a3cc-99ed1713c7e4" />
+
 ```
 Developed by: MURUGA S
 RegisterNumber: 25010785
