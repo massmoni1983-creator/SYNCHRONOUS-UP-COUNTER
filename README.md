@@ -42,10 +42,12 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **UP_COUNTER PROGRAM**
 
 <img width="507" height="297" alt="Screenshot 2025-12-18 082841" src="https://github.com/user-attachments/assets/c5baeb8e-0f37-4e79-8beb-ac21de7607fc" />
+
 ```
 Developed by: MURUGA S
 RegisterNumber: 25010785
 ```
+
 **RTL LOGIC UP COUNTER**
 
 <img width="931" height="315" alt="Screenshot 2025-12-18 083039" src="https://github.com/user-attachments/assets/c1c3772a-da74-4e35-94bb-6f09ac1cdb59" />
